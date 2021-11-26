@@ -1,3 +1,4 @@
+// program to calculate mean of an individual series
 #include<iostream.h>
 
 int main()
